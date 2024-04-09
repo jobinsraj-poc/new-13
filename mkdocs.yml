@@ -1,0 +1,9 @@
+site_name: "new-13"
+site_description: "new-13"
+
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+
+plugins:
+  - techdocs-core
